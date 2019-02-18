@@ -1,4 +1,4 @@
-#Marina Fire Station by Seth S.
+Marina Fire Station by Seth S.
 ------------------------------------------------------------------------
 
 > Installation
